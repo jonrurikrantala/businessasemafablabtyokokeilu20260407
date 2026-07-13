@@ -1,2 +1,2 @@
-# businessasemafablabtyokokeilu20260407
+# BusinessAsema FabLab työkokeilu 2026-04-07
 Raportointi työkokeilusta

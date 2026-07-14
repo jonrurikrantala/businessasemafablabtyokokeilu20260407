@@ -77,6 +77,8 @@ Siirsin ulompien kappaleiden kierteitä loitommaksi sisäkappaleista, jolla sain
 		</details>
 		<details>
 			<summary>Viikko 4 (28. - 30.4.)</summary>
+			<br>
+			Testitulostukset olivat jälleen kerran liian tiukkoja, joten kasvatin kappaleiden välisiä toleransseja ja tein uudet testitulostukset kahdelle ulommaisimmalle kappaleelle ja kahdelle sisimmälle kappaleelle. Uusien testikappaleiden perusteella sopiva toleranssi kierteille on 0,4 mm; tosin sisimpien kappaleiden kierteet tulivat kyseisellä toleranssilla turhan pieniksi, joten kasvatin kierteiden kokoa seuraavaa testitulostusta varten. Mallinnin ja tulostin kannen, valekannen, ja avaimen testikappaleet. Avaimenreiät olivat liian ahtaat, joten kasvatin toleransseja. Mallinnin kuoreen kauluksen kannelle. Tulostin kuoren, valekannen, ja kuuden sisimmän kappaleen uudet testikappaleet.
 		</details>
 		<details>
 			<summary>Viikko 5 (5. - 7.5.)</summary>

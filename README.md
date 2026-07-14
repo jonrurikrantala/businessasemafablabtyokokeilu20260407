@@ -7,7 +7,14 @@ Raportointi työkokeilusta
 
 <details>
 	<summary>
-		asdfasdf
+		Suomeksi
 	</summary>
-	asdfgfdasdgasdhadf
+	Tähän raportti suomeksi
+</details>
+
+<details>
+	<summary>
+		In English
+	</summary>
+	Report in English
 </details>

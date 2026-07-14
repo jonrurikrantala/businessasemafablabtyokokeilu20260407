@@ -69,7 +69,11 @@ Aikataulun mahdolliset muutokset voivat johtua tulostimien varaustilanteesta, tu
 			Huomasin, etten voi käyttää valmiita standardeja sekä kappaleiden ulko- että sisäkierteisiin, koska tulostettaessa kappaleista tulisi liian tiukkoja. Käytin kappaleiden ulkopinnoille standardien mukaisia kierteitä ja kaiversin ulompiin kappaleisiin sisempien kappaleiden mukaiset kaiverrukset, jotta saisin kierteet yhteensopiviksi.
 			<br><br>
 
-![testi](files/ydinproto.png)
+![kierteeteka](files/kierteeteka.png)
+<br>
+Ulompien kappaleiden kierteitä siirrettiin loitommaksi sisäkappaleista, jolla saatiin kappaleiden välisiä toleransseja kierteille sopivaksi. Myös ulkopintojen kierteiden huippuja ja laaksoja siirrettiin lähemmäksi toisiaan, näin pyöristäen kierteitä ja helpottaen kappaleiden liittämistä toisiinsa.
+<br><br>
+![kierteettoka](files/kierteettoka.png)
 		</details>
 		<details>
 			<summary>Viikko 4 (28. - 30.4.)</summary>

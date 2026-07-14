@@ -71,7 +71,7 @@ Aikataulun mahdolliset muutokset voivat johtua tulostimien varaustilanteesta, tu
 
 ![kierteeteka](files/kierteeteka.png)
 <br>
-Ulompien kappaleiden kierteitä siirrettiin loitommaksi sisäkappaleista, jolla saatiin kappaleiden välisiä toleransseja kierteille sopivaksi. Myös ulkopintojen kierteiden huippuja ja laaksoja siirrettiin lähemmäksi toisiaan, näin pyöristäen kierteitä ja helpottaen kappaleiden liittämistä toisiinsa.
+Siirsin ulompien kappaleiden kierteitä loitommaksi sisäkappaleista, jolla sain kappaleiden välisiä toleransseja kierteille sopivaksi. Siirsin myös ulkopintojen kierteiden huippuja ja laaksoja lähemmäksi toisiaan, näin pyöristäen kierteitä ja helpottaen kappaleiden liittämistä toisiinsa.
 <br><br>
 ![kierteettoka](files/kierteettoka.png)
 		</details>

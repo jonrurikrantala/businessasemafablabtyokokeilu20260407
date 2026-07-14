@@ -9,7 +9,9 @@ Raportointi työkokeilusta
 	<summary>
 		Suomeksi
 	</summary>
-	Tähän raportti suomeksi
+	# Projektin tavoite ja rajaus
+
+	Projektin aikana suunnitellaan, mallinnetaan, ja 3D-tulostetaan lieriöitä, jotka sisä- ja ulkopintojensa kierteillä lukkiutuvat sisäkkäin maatuskan tapaisesti ja muodostavat kokonaisuuden, joka on ärsyttävä koota ja purkaa. Uloin lieriö koristellaan lahjapaketin näköiseksi ja sille tehdään yhteensopiva kansi, jossa on valekansi oikeaa lahjaa varten.
 </details>
 
 <details>

@@ -9,18 +9,22 @@ Raportointi työkokeilusta
 <summary>Suomeksi</summary>
 
 <details>
-<summary>Projektin tavoite ja rajaus</summary>
+	<summary>Projektin tavoite ja rajaus</summary>
+	
 Projektin aikana suunnittelen, mallinnan, ja 3D-tulostan lieriöitä, jotka sisä- ja ulkopintojensa kierteillä lukkiutuvat sisäkkäin maatuskan tapaisesti ja muodostavat kokonaisuuden, joka on ärsyttävä koota ja purkaa. Uloimman lieriön koristelen lahjapaketin näköiseksi ja teen sille yhteensopiva kannen, jossa on valekansi oikeaa lahjaa varten.
 </details>
 
 <details>
 <summary>Projektin tausta ja lähtökohdat</summary>
+
 Teen projektin (kierto)lahjaksi kaverin polttareihin. Vastaavanlaisia tuotteita ja 3D-malleja löytyy valmiina, “nested screw gift box” haulla löytyy monta referenssiä valmistettavasta esineestä. Itsetehdyn lahjan tekemisellä opin mallintamisesta ja 3D-tulostamisesta. Projektin aikana opettelen Autodesk Fusion -ohjelmiston ja tulostamiseen käytettävien tulostimien käyttöä.
+
 ![Kuva 1](files/avoin_malli.jpeg) ![Kuva 2](files/ohjeistus.jpg)
 </details>
 
 <details>
 <summary>Käytettävät ohjelmistot, materiaalit, ja teknologiat</summary>
+
 Projektissa valmistettava esine suunnitellaan Autodesk Fusion -ohjelmistolla ja valmistetaan FabLab:n 3D-tulostimilla PLA-filamentista.
 </details>
 

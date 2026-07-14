@@ -140,5 +140,5 @@ Testitulostukset avaimesta, kannesta, ja valekannen testikappaleesta; otin selvi
 <details>
 	<summary>In English</summary>
 	<br>
-	Report in English
+	TODO
 </details>

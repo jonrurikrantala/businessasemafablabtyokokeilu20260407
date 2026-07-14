@@ -61,7 +61,7 @@ Aikataulun mahdolliset muutokset voivat johtua tulostimien varaustilanteesta, tu
 		<details>
 			<summary>Viikko 2 (14. - 16.4.)</summary>
 			<br>
-			Tulostin ydinkappaleen Original Prusa MK4 Input Shaper -tulostimella 0,4 mm:n tulostuskärjellä; palautteen perusteella päädyn väkäset hyvä muokata isommiksi, jotta ne kestävät rasitusta paremmin. Mallinsin 15 mm:n halkaisijan ydinkappale isommilla väkäsillä sekä ensimmäisen välikappaleen testikappaleen, jotka tulostin Creality Ender-3 V3 SE -tulostimella. Testikappaleiden perusteella mallinnan seuraavat iteraatiot väljemmiksi.
+			Tulostin ydinkappaleen Original Prusa MK4 Input Shaper -tulostimella 0,4 mm:n tulostuskärjellä; palautteen perusteella päädyn väkäset hyvä muokata isommiksi, jotta ne kestävät rasitusta paremmin. Mallinsin 15 mm:n halkaisijan ydinkappaleen isommilla väkäsillä sekä ensimmäisen välikappaleen testikappaleen, jotka tulostin Creality Ender-3 V3 SE -tulostimella. Testikappaleiden perusteella mallinnan seuraavat iteraatiot väljemmiksi.
 		</details>
 		<details>
 			<summary>Viikko 3 (21. - 23.4.)</summary>
@@ -70,7 +70,7 @@ Aikataulun mahdolliset muutokset voivat johtua tulostimien varaustilanteesta, tu
 			<br><br>
 
 ![kierteeteka](files/kierteeteka.png)
-<br>
+<br><br>
 Siirsin ulompien kappaleiden kierteitä loitommaksi sisäkappaleista, jolla sain kappaleiden välisiä toleransseja kierteille sopivaksi. Siirsin myös ulkopintojen kierteiden huippuja ja laaksoja lähemmäksi toisiaan, näin pyöristäen kierteitä ja helpottaen kappaleiden liittämistä toisiinsa.
 <br><br>
 ![kierteettoka](files/kierteettoka.png)
@@ -78,24 +78,44 @@ Siirsin ulompien kappaleiden kierteitä loitommaksi sisäkappaleista, jolla sain
 		<details>
 			<summary>Viikko 4 (28. - 30.4.)</summary>
 			<br>
-			Testitulostukset olivat jälleen kerran liian tiukkoja, joten kasvatin kappaleiden välisiä toleransseja ja tein uudet testitulostukset kahdelle ulommaisimmalle kappaleelle ja kahdelle sisimmälle kappaleelle. Uusien testikappaleiden perusteella sopiva toleranssi kierteille on 0,4 mm; tosin sisimpien kappaleiden kierteet tulivat kyseisellä toleranssilla turhan pieniksi, joten kasvatin kierteiden kokoa seuraavaa testitulostusta varten. Mallinnin ja tulostin kannen, valekannen, ja avaimen testikappaleet. Avaimenreiät olivat liian ahtaat, joten kasvatin toleransseja. Mallinnin kuoreen kauluksen kannelle. Tulostin kuoren, valekannen, ja kuuden sisimmän kappaleen uudet testikappaleet.
+			Testitulostukset olivat jälleen kerran liian tiukkoja, joten kasvatin kappaleiden välisiä toleransseja ja tein uudet testitulostukset kahdelle ulommaisimmalle kappaleelle ja kahdelle sisimmälle kappaleelle. Uusien testikappaleiden perusteella sopiva toleranssi kierteille on 0,4 mm; tosin sisimpien kappaleiden kierteet tulivat kyseisellä toleranssilla turhan pieniksi, joten kasvatin kierteiden kokoa seuraavaa testitulostusta varten. Mallinsin ja tulostin kannen, valekannen, ja avaimen testikappaleet. Avaimenreiät olivat liian ahtaat, joten kasvatin toleransseja. Mallinsin kuoreen kauluksen kannelle. Tulostin kuoren, valekannen, ja kuuden sisimmän kappaleen uudet testikappaleet.
 			<br><br>
 ![avainkannet](files/avainkannet.png)
 		</details>
 		<details>
 			<summary>Viikko 5 (5. - 7.5.)</summary>
+			<br>
+			Testitulostukset 2x, suht. paljon ylipursotusta (engl. *blob*) toisessa tulostuksessa, viipalointi Prusa Slicerilla ja testitulostus -> sama kahdella vastakappaleella, varsinaisten kappaleiden mallintamista.
+Testitulostukset avaimesta, kannesta, ja valekannen testikappaleesta; otin selville avaimen säilytyskolon, valekannen ytimen väkästen kolojen, sekä valekannen ja kannen väliset toleranssit. Testitulostuksien perusteella mallinsin kappaleet uudelleen. Loin kappaleiden välille sidonnaisuuksia, jolloin niiden massamuokkaaminen on helpompaa, ja muutin kaikki kierteet samankokoisiksi esineen avaamisen (ja kokoamisen) rasittavuuden lisäämiseksi (V2). Tein kannen, valekannen, ytimen, ja kahden ydintä lähinnä olevan kappaleen testitulostukset.
 		</details>
 		<details>
 			<summary>Viikko 6 (12. - 13.5.)</summary>
+			<br>
+			Mallinsin testikappaleen avaimen säilytyskololle; 0,3 mm (seinät) x 0,4 mm (pohja), 0,4 mm x 0,2 mm, 0,4 mm x 0,4 mm, ja 0,4 mm x 0,6 mm toleransseilla. Testitulostuksen perusteella asetin avaimen säilytyskolon toleransseiksi seinille 0,3 mm ja lattialle 0,6 mm. Tulostin ensimmäiset prototyypit. Havainnekuva esineen osista.
 		</details>
 		<details>
 			<summary>Viikko 7 (19. - 21.5.)</summary>
+			<br>
+			Prototyyppien kierteillä oli paljon ylipursotusta, joka teki esineen kokoamisesta lähes mahdotonta. Myös Ydin+10 -osan sisäpinnoilla oli koko korkeudelta häntimistä (engl. *stringing*). Mallinsin lyhyen testikappaleen Ydin+10 -osasta ja tulostin sen samalla tulostimella eri filamentilla; testikappaleessa myös paljon häntimistä. Käytin Prusa Slicerin asetusta “Avoid crossing perimeters” ja tein uudet testitulostukset kuudesta uloimmasta osasta eri tulostimilla ja filamenteilla.
 		</details>
 		<details>
 			<summary>Viikko 8 (26. - 28.5.)</summary>
+			<br>
+			Testitulostukset eivät ruuvautuneet perille asti, vaan jäivät väliltä kiinni; syyksi epäilin tulostuksessa kierteisiin muodostunutta ylipursotusta ja häntimistä. Aloitin uusien osien mallintaminen, joihin tein omat kierteet coil-työkalua käyttäen (V3). Mallinsin ensimmäisen kierteen ydinlierön pinnasta alkavalla halkaisijalla, kolmiopohjalla, 4 mm:n nousulla (engl. *pitch*) ja 4 mm:n koolla (engl. *lead*); vastakkainen kierre 0,4 mm:ä isommalla halkaisijalla ja 4 mm:ä korkeammalla tai matalammalla. Lisäsin kolmannen kierteen alkamaan edellisestä niin, että tasapinnat olivat vastakkain. Lisäsin kierteitä, kunnes uloimman kierteen uloimman reunan halkaisija saavutti 8 cm:ä, jonka sitten liitin kuoren sisäpinnalle. Tein kierteiden kärkiin ja pohjiin 0,8 mm:n pyöristykset.
 		</details>
 		<details>
 			<summary>Viikko 9 (2. - 4.6.)</summary>
+			<br>
+			Mallinsin V3 testikappaleet. Mallinnuksen vaiheet pääpiirteittäin:
+
+1. Lieriön mallintaminen
+2. Kierteiden mallintaminen coil-työkalulla lieriön pinnalle
+3. Kierteiden siirtäminen korkeussuunnassa
+4. Kierteiden leikkaaminen lieriön kokoisiksi
+5. Kierteiden huippujen ja laaksojen pyöristys
+6. Kierteiden sorvaaminen toisiinsa
+7. Sisempien kierteiden liittäminen lieriöön
+8. Jalan mallintaminen ja liittäminen lieriöön
 		</details>
 		<details>
 			<summary>Viikko 10 (9. - 11.6.)</summary>

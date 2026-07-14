@@ -7,7 +7,7 @@ Raportointi työkokeilusta
 
 <details>
 	<summary>
-		Suomeksi
+		**Suomeksi**
 	</summary>
 	**Projektin tavoite ja rajaus**
 	

@@ -16,7 +16,7 @@ Projektin aikana suunnittelen, mallinnan, ja 3D-tulostan lieriöitä, jotka sis�
 
 Teen projektin (kierto)lahjaksi kaverin polttareihin. Vastaavanlaisia tuotteita ja 3D-malleja löytyy valmiina, “nested screw gift box” haulla löytyy monta referenssiä valmistettavasta esineestä. Itsetehdyn lahjan tekemisellä opin mallintamisesta ja 3D-tulostamisesta. Projektin aikana opettelen Autodesk Fusion -ohjelmiston ja tulostamiseen käytettävien tulostimien käyttöä.
 
-[Kuva 1](files/2026-Annoying-Nested-Screw-Gift-Box.jpeg) [Kuva 2](files/s-l960.jpg)
+![Kuva 1](files/2026-Annoying-Nested-Screw-Gift-Box.jpeg) ![Kuva 2](files/s-l960.jpg)
 
 </details>
 

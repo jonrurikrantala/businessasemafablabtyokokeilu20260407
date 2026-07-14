@@ -53,13 +53,23 @@ Aikataulun mahdolliset muutokset voivat johtua tulostimien varaustilanteesta, tu
 		<summary>Toteutus</summary>
 		<details>
 			<summary>Viikko 1 (7. - 9.4.2026)</summary>
+			<br>
 			Suunnittelin alustavan aikataulun projektille, kirjoitettuna ylempänä. Loin tunnukset Autodeskin alustalle ja katsoin ohjaajien suosittelemaa [Autodesk Fusion -ohjelman opetusvideosarjaa Youtubesta](https://www.youtube.com/playlist?list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr). Mallinsin alustavan 10 mm:n halkaisijan ydinkappaleen kyseisellä ohjelmalla.
+			<br><br>
+![ydinproto](files/ydinproto.png)
 		</details>
 		<details>
 			<summary>Viikko 2 (14. - 16.4.)</summary>
+			<br>
+			Tulostin ydinkappaleen Original Prusa MK4 Input Shaper -tulostimella 0,4 mm:n tulostuskärjellä; palautteen perusteella päädyn väkäset hyvä muokata isommiksi, jotta ne kestävät rasitusta paremmin. Mallinsin 15 mm:n halkaisijan ydinkappale isommilla väkäsillä sekä ensimmäisen välikappaleen testikappaleen, jotka tulostin Creality Ender-3 V3 SE -tulostimella. Testikappaleiden perusteella mallinnan seuraavat iteraatiot väljemmiksi.
 		</details>
 		<details>
 			<summary>Viikko 3 (21. - 23.4.)</summary>
+			<br>
+			Huomasin, etten voi käyttää valmiita standardeja sekä kappaleiden ulko- että sisäkierteisiin, koska tulostettaessa kappaleista tulisi liian tiukkoja. Käytin kappaleiden ulkopinnoille standardien mukaisia kierteitä ja kaiversin ulompiin kappaleisiin sisempien kappaleiden mukaiset kaiverrukset, jotta saisin kierteet yhteensopiviksi.
+			<br><br>
+
+![testi](files/ydinproto.png)
 		</details>
 		<details>
 			<summary>Viikko 4 (28. - 30.4.)</summary>

@@ -9,9 +9,10 @@ Raportointi työkokeilusta
 <summary>Suomeksi</summary>
 
 <details>
-	<summary>Projektin tavoite ja rajaus</summary>
-	
-Projektin aikana suunnittelen, mallinnan, ja 3D-tulostan lieriöitä, jotka sisä- ja ulkopintojensa kierteillä lukkiutuvat sisäkkäin maatuskan tapaisesti ja muodostavat kokonaisuuden, joka on ärsyttävä koota ja purkaa. Uloimman lieriön koristelen lahjapaketin näköiseksi ja teen sille yhteensopiva kannen, jossa on valekansi oikeaa lahjaa varten.
+	<summary>
+		Projektin tavoite ja rajaus
+	</summary>
+	Projektin aikana suunnittelen, mallinnan, ja 3D-tulostan lieriöitä, jotka sisä- ja ulkopintojensa kierteillä lukkiutuvat sisäkkäin maatuskan tapaisesti ja muodostavat kokonaisuuden, joka on ärsyttävä koota ja purkaa. Uloimman lieriön koristelen lahjapaketin näköiseksi ja teen sille yhteensopiva kannen, jossa on valekansi oikeaa lahjaa varten.
 </details>
 
 <details>

@@ -1,8 +1,6 @@
 # BusinessAsema FabLab työkokeilu 2026-04-07
 Raportointi työkokeilusta
 
-[Google Docs -muistiinpanot](https://docs.google.com/document/d/1tTI-SNn99ezTLXz4nYRPhnU1JoJAfYSo0cHmPwku-UI/)
-
 [Canva-posteri](https://canva.link/k62yjphi6xs51g4)
 
 <details>
@@ -85,8 +83,7 @@ Siirsin ulompien kappaleiden kierteitä loitommaksi sisäkappaleista, jolla sain
 		<details>
 			<summary>Viikko 5 (5. - 7.5.)</summary>
 			<br>
-			Testitulostukset 2x, suht. paljon ylipursotusta (engl. *blob*) toisessa tulostuksessa, viipalointi Prusa Slicerilla ja testitulostus -> sama kahdella vastakappaleella, varsinaisten kappaleiden mallintamista.
-Testitulostukset avaimesta, kannesta, ja valekannen testikappaleesta; otin selville avaimen säilytyskolon, valekannen ytimen väkästen kolojen, sekä valekannen ja kannen väliset toleranssit. Testitulostuksien perusteella mallinsin kappaleet uudelleen. Loin kappaleiden välille sidonnaisuuksia, jolloin niiden massamuokkaaminen on helpompaa, ja muutin kaikki kierteet samankokoisiksi esineen avaamisen (ja kokoamisen) rasittavuuden lisäämiseksi (V2). Tein kannen, valekannen, ytimen, ja kahden ydintä lähinnä olevan kappaleen testitulostukset.
+			Testitulostukset avaimesta, kannesta, ja valekannen testikappaleesta; otin selville avaimen säilytyskolon, valekannen ytimen väkästen kolojen, sekä valekannen ja kannen väliset toleranssit. Testitulostuksien perusteella mallinsin V2 kappaleet: loin kappaleiden välille sidonnaisuuksia, jolloin niiden massamuokkaaminen on helpompaa, ja muutin kaikki kierteet samankokoisiksi esineen avaamisen (ja kokoamisen) rasittavuuden lisäämiseksi. Tein kannen, valekannen, ytimen, ja kahden ydintä lähinnä olevan kappaleen testitulostukset.
 		</details>
 		<details>
 			<summary>Viikko 6 (12. - 13.5.)</summary>
@@ -96,12 +93,12 @@ Testitulostukset avaimesta, kannesta, ja valekannen testikappaleesta; otin selvi
 		<details>
 			<summary>Viikko 7 (19. - 21.5.)</summary>
 			<br>
-			Prototyyppien kierteillä oli paljon ylipursotusta, joka teki esineen kokoamisesta lähes mahdotonta. Myös Ydin+10 -osan sisäpinnoilla oli koko korkeudelta häntimistä (engl. *stringing*). Mallinsin lyhyen testikappaleen Ydin+10 -osasta ja tulostin sen samalla tulostimella eri filamentilla; testikappaleessa myös paljon häntimistä. Käytin Prusa Slicerin asetusta “Avoid crossing perimeters” ja tein uudet testitulostukset kuudesta uloimmasta osasta eri tulostimilla ja filamenteilla.
+			Prototyyppien kierteillä oli paljon ylipursotusta, joka teki esineen kokoamisesta lähes mahdotonta. Myös Ydin+10 -osan sisäpinnoilla oli koko korkeudelta häntimistä (engl. *stringing*). Mallinsin lyhyen testikappaleen Ydin+10 -osasta ja tulostin sen samalla tulostimella eri filamentilla; testikappaleessa myös paljon häntimistä. Käytin Prusa Slicerin asetusta "Avoid crossing perimeters" ja tein uudet testitulostukset kuudesta uloimmasta osasta eri tulostimilla ja filamenteilla.
 		</details>
 		<details>
 			<summary>Viikko 8 (26. - 28.5.)</summary>
 			<br>
-			Testitulostukset eivät ruuvautuneet perille asti, vaan jäivät väliltä kiinni; syyksi epäilin tulostuksessa kierteisiin muodostunutta ylipursotusta ja häntimistä. Aloitin uusien osien mallintaminen, joihin tein omat kierteet coil-työkalua käyttäen (V3). Mallinsin ensimmäisen kierteen ydinlierön pinnasta alkavalla halkaisijalla, kolmiopohjalla, 4 mm:n nousulla (engl. *pitch*) ja 4 mm:n koolla (engl. *lead*); vastakkainen kierre 0,4 mm:ä isommalla halkaisijalla ja 4 mm:ä korkeammalla tai matalammalla. Lisäsin kolmannen kierteen alkamaan edellisestä niin, että tasapinnat olivat vastakkain. Lisäsin kierteitä, kunnes uloimman kierteen uloimman reunan halkaisija saavutti 8 cm:ä, jonka sitten liitin kuoren sisäpinnalle. Tein kierteiden kärkiin ja pohjiin 0,8 mm:n pyöristykset.
+			Testitulostukset eivät ruuvautuneet perille asti, vaan jäivät väliltä kiinni; syyksi epäilin tulostuksessa kierteisiin muodostunutta ylipursotusta ja häntimistä. Aloitin V3 osien mallintamisen, joihin tein omat kierteet coil-työkalua käyttäen. Mallinsin ensimmäisen kierteen ydinlierön pinnasta alkavalla halkaisijalla, kolmiopohjalla, 4 mm:n nousulla (engl. *pitch*) ja 4 mm:n koolla (engl. *lead*); vastakkainen kierre 0,4 mm:ä isommalla halkaisijalla ja 4 mm:ä korkeammalla tai matalammalla. Lisäsin kolmannen kierteen alkamaan edellisestä niin, että tasapinnat olivat vastakkain. Lisäsin kierteitä, kunnes uloimman kierteen uloimman reunan halkaisija saavutti 8 cm:ä, jonka sitten liitin kuoren sisäpinnalle. Tein kierteiden kärkiin ja pohjiin 0,8 mm:n pyöristykset.
 		</details>
 		<details>
 			<summary>Viikko 9 (2. - 4.6.)</summary>

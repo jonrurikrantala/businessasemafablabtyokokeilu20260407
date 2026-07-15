@@ -90,8 +90,9 @@ Siirsin ulompien kappaleiden kierteitä loitommaksi sisäkappaleista, jolla sain
 		</details>
 		<details>
 			<summary>Viikko 7 (19. - 21.5.)</summary>
-			<br><img align="right" src="files/ylipursotus.jpg">
+			<br>
 			Prototyyppien kierteillä oli paljon ylipursotusta, joka teki esineen kokoamisesta lähes mahdotonta. Myös Ydin+10 -osan sisäpinnoilla oli koko korkeudelta häntimistä (engl. *stringing*). Mallinsin lyhyen testikappaleen Ydin+10 -osasta ja tulostin sen samalla tulostimella eri filamentilla; testikappaleessa myös paljon häntimistä. Käytin Prusa Slicerin asetusta "Avoid crossing perimeters" ja tein uudet testitulostukset kuudesta uloimmasta osasta eri tulostimilla ja filamenteilla.
+			![hantiminen](files/hantiminen.jpg)
 		</details>
 		<details>
 			<summary>Viikko 8 (26. - 28.5.)</summary>

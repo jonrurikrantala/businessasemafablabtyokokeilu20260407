@@ -119,21 +119,35 @@ Testitulostukset avaimesta, kannesta, ja valekannen testikappaleesta; otin selvi
 		</details>
 		<details>
 			<summary>Viikko 10 (9. - 11.6.)</summary>
+			<br>
+			Viipaloin kappaleet OrcaSlicer-ohjelmalla, jonka jälkeen tulostin ne. Mallinsin V4 kappaleista isommilla kierteillä siltä varalta, että viipalointi eri ohjelmalla ei auta. Testitulostus V4.
 		</details>
 		<details>
 			<summary>Viikko 11 (16. - 18.6.)</summary>
+			<br>
+			Työstin testitulostuksia poistamalla ylipursotusta kierteiden pinnoilta viilalla ja tulostin [valmiin mallin](https://www.printables.com/model/1517265-annoying-nested-screw-gift-box/) toleranssitestin eri viipalointiohjelmilla (Prusa Slicer, OrcaSlicer, UltiMaker Cura). Toleranssitestin tulostus onnistui hyvin, vaikka ylipursotusta ilmeni silti. Mallinsin V5 osia. Toleranssipalan yksittäistulostus, huomattavasti parempi jälki.
 		</details>
 		<details>
 			<summary>Viikko 12 (23. - 25.6.)</summary>
+			<br>
+			Osat v5 mallinnus valmiiksi, testiosien mallintaminen ja tulostaminen. Osat v6 ja testiosat v6 mallinnus. V5 osissa huomattiin, että osat kiertyvät paremmin tietyille kierteille.
 		</details>
 		<details>
 			<summary>Viikko 13 (30.6. - 2.7.)</summary>
+			<br>
+			Testitulostukset neljästä [valmiin mallin](https://www.printables.com/model/1517265-annoying-nested-screw-gift-box) kappaleesta Creality Ender-3 V2 Neo -tulostimella, viipalointi Prusa Slicer -ohjelmistolla. Ylipursotuksen poistoa viilalla v5 testikappaleiden ulkokierteiltä.
+   Valmiin mallin kappaleisiin muodostui myös ylipursotusta ja häntimistä sen verran, että kappaleiden poiskiertämiseen piti käyttää voimaa. V5 testikappaleiden kierteiden ulkopintojen ylipursotuksen poistaminen viilalla auttoi (ytimestä laskien) viidenteen kappaleeseen asti, epäilen (saavutettamattomilla) sisäkierteillä olevan myös ylipursotusta.
+   Koska kierteistykset toimivat jälkityöstämisen jälkeen tiettyyn halkaisijaan asti, rajataan lopullisen tuotteen loppuhalkaisijaa pienemmäksi. V5.2 mallinnus, posterin aloitus
 		</details>
 		<details>
 			<summary>Viikko 14 (7. - 9.7.)</summary>
+			<br>
+			V5.2 testikappaleiden mallinnus ja tulostus 0,16 mm:n kerroskorkeudella. Tekninen piirrustus v5.2 ytimestä. V5.2 kappaleiden tulostus 0,16 mm:n kerroskorkeudella “PolyTerra Dual Camouflage Dark Green-Brown” PLA:lla.
 		</details>
 		<details>
 			<summary>Viikko 15 (14. - 16.7.)</summary>
+			<br>
+			Hyvä lukija, luette paraikaa tämän viikon aikaansaannosta.
 		</details>
 	</details>
 </details>

@@ -1,6 +1,6 @@
 # BusinessAsema FabLab työkokeilu 2026-04-07
 
-[Canva-posteri](https://canva.link/k62yjphi6xs51g4)
+![posteri](files/posteri.png)
 
 <details>
 	<summary>Dokumentaatio</summary>

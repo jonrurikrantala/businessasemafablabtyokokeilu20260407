@@ -138,8 +138,8 @@ Siirsin ulompien kappaleiden kierteitä loitommaksi sisäkappaleista, jolla sain
 		</details>
 		<details>
 			<summary>Viikko 14 (7. - 9.7.)</summary>
-			<br>
-			V5.2 testikappaleiden mallinnus ja tulostus 0,16 mm:n kerroskorkeudella. Tekninen piirrustus v5.2 ytimestä. V5.2 kappaleiden tulostus 0,16 mm:n kerroskorkeudella “PolyTerra Dual Camouflage Dark Green-Brown” PLA:lla.
+			<br><img align="right" src="files/loppu.jpg">
+			Mallinsin V5.2 testikappaleet ja tulostin ne 0,16 mm:n kerroskorkeudella. Tein v5.2 ytimen [teknisen piirrustuksen](files/ydintekninen.pdf). Tulostin V5.2 kappaleet 0,16 mm:n kerroskorkeudella “PolyTerra Dual Camouflage Dark Green-Brown” PLA:lla.
 		</details>
 		<details>
 			<summary>Viikko 15 (14. - 16.7.)</summary>

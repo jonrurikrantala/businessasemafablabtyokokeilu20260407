@@ -3,7 +3,7 @@
 [Canva-posteri](https://canva.link/k62yjphi6xs51g4)
 
 <details>
-	<summary>Suomeksi</summary>
+	<summary>Dokumentaatio</summary>
 	<details>
 		<summary>Projektin tavoite ja rajaus</summary>
 		<br>
@@ -146,9 +146,4 @@ Siirsin ulompien kappaleiden kierteitä loitommaksi sisäkappaleista, jolla sain
 			Hyvä lukija, luette paraikaa tämän viikon aikaansaannosta.
 		</details>
 	</details>
-</details>
-<details>
-	<summary>In English</summary>
-	<br>
-	TODO
 </details>

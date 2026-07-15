@@ -114,7 +114,7 @@ Siirsin ulompien kappaleiden kierteitä loitommaksi sisäkappaleista, jolla sain
 		</details>
 		<details>
 			<summary>Viikko 10 (9. - 11.6.)</summary>
-			<br>
+			<br><img align="right" src="files/V4.png">
 			V3 kappaleisiin muodostui yhä ylipursotusta, joten testatiin niiden viipalointia OrcaSlicer-ohjelmalla. Mallinsin V4 kappaleet isommilla kierteillä V3 verrattuna siltä varalta, että viipalointi eri ohjelmalla ei auta. Tein testitulostukset V4 kappaleille.
 		</details>
 		<details>

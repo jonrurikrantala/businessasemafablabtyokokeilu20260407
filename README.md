@@ -51,10 +51,8 @@ Aikataulun mahdolliset muutokset voivat johtua tulostimien varaustilanteesta, tu
 		<summary>Toteutus</summary>
 		<details>
 			<summary>Viikko 1 (7. - 9.4.2026)</summary>
-			<br>
+			<br><img align="right" src="files/ydinproto.png">
 			Suunnittelin alustavan aikataulun projektille, kirjoitettuna ylempänä. Loin tunnukset Autodeskin alustalle ja katsoin ohjaajien suosittelemaa [Autodesk Fusion -ohjelman opetusvideosarjaa Youtubesta](https://www.youtube.com/playlist?list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr). Mallinsin alustavan 10 mm:n halkaisijan ydinkappaleen kyseisellä ohjelmalla.
-			<br><br>
-![ydinproto](files/ydinproto.png)
 		</details>
 		<details>
 			<summary>Viikko 2 (14. - 16.4.)</summary>
@@ -92,7 +90,7 @@ Siirsin ulompien kappaleiden kierteitä loitommaksi sisäkappaleista, jolla sain
 		</details>
 		<details>
 			<summary>Viikko 7 (19. - 21.5.)</summary>
-			<br>
+			<br><img align="right" src="files/ylipursotus.jpg">
 			Prototyyppien kierteillä oli paljon ylipursotusta, joka teki esineen kokoamisesta lähes mahdotonta. Myös Ydin+10 -osan sisäpinnoilla oli koko korkeudelta häntimistä (engl. *stringing*). Mallinsin lyhyen testikappaleen Ydin+10 -osasta ja tulostin sen samalla tulostimella eri filamentilla; testikappaleessa myös paljon häntimistä. Käytin Prusa Slicerin asetusta "Avoid crossing perimeters" ja tein uudet testitulostukset kuudesta uloimmasta osasta eri tulostimilla ja filamenteilla.
 		</details>
 		<details>

@@ -66,7 +66,7 @@ Aikataulun mahdolliset muutokset voivat johtua tulostimien varaustilanteesta, tu
 
 ![kierteeteka](files/kierteeteka.png)
 <br><br>
-Siirsin ulompien kappaleiden kierteitä loitommaksi sisäkappaleista, jolla sain kappaleiden välisiä toleransseja kierteille sopivaksi. Siirsin myös ulkopintojen kierteiden huippuja ja laaksoja lähemmäksi toisiaan, näin pyöristäen kierteitä ja helpottaen kappaleiden liittämistä toisiinsa.
+Siirsin ulompien kappaleiden kierteitä loitommaksi sisäkappaleista, jolla sain kappaleiden välisiä toleransseja kierteille sopivaksi. Siirsin myös ulkopintojen kierteiden harjoja ja pohjia lähemmäksi toisiaan, näin pyöristäen kierteitä ja helpottaen kappaleiden liittämistä toisiinsa.
 <br><br>
 ![kierteettoka](files/kierteettoka.png)
 		</details>
@@ -95,7 +95,7 @@ Siirsin ulompien kappaleiden kierteitä loitommaksi sisäkappaleista, jolla sain
 		<details>
 			<summary>Viikko 8 (26. - 28.5.)</summary>
 			<br><img align="right" src="files/V3.png">
-			Testitulostukset eivät ruuvautuneet perille asti, vaan jäivät väliltä kiinni; syyksi epäilin tulostuksessa kierteisiin muodostunutta ylipursotusta ja häntimistä. Aloitin V3 osien mallintamisen, joihin tein omat kierteet coil-työkalua käyttäen. Mallinsin ensimmäisen kierteen ydinlierön pinnasta alkavalla halkaisijalla, kolmiopohjalla, 4 mm:n nousulla (engl. *pitch*) ja 4 mm:n koolla (engl. *lead*); vastakkainen kierre 0,4 mm:ä isommalla halkaisijalla ja 4 mm:ä korkeammalla tai matalammalla. Lisäsin kolmannen kierteen alkamaan edellisestä niin, että tasapinnat olivat vastakkain. Lisäsin kierteitä, kunnes uloimman kierteen uloimman reunan halkaisija saavutti 8 cm:ä, jonka sitten liitin kuoren sisäpinnalle. Tein kierteiden kärkiin ja pohjiin 0,8 mm:n pyöristykset.
+			Testitulostukset eivät ruuvautuneet perille asti, vaan jäivät väliltä kiinni; syyksi epäilin tulostuksessa kierteisiin muodostunutta ylipursotusta ja häntimistä. Aloitin V3 osien mallintamisen, joihin tein omat kierteet coil-työkalua käyttäen. Mallinsin ensimmäisen kierteen ydinlierön pinnasta alkavalla halkaisijalla, kolmiopohjalla, 4 mm:n nousulla (engl. *pitch*) ja 4 mm:n koolla (engl. *lead*); vastakkainen kierre 0,4 mm:ä isommalla halkaisijalla ja 4 mm:ä korkeammalla tai matalammalla. Lisäsin kolmannen kierteen alkamaan edellisestä niin, että tasapinnat olivat vastakkain. Lisäsin kierteitä, kunnes uloimman kierteen uloimman reunan halkaisija saavutti 8 cm:ä, jonka sitten liitin kuoren sisäpinnalle. Tein kierteiden harjoihin ja pohjiin 0,8 mm:n pyöristykset.
 		</details>
 		<details>
 			<summary>Viikko 9 (2. - 4.6.)</summary>
@@ -106,7 +106,7 @@ Siirsin ulompien kappaleiden kierteitä loitommaksi sisäkappaleista, jolla sain
 2. Kierteiden mallintaminen coil-työkalulla lieriön pinnalle
 3. Kierteiden siirtäminen korkeussuunnassa
 4. Kierteiden leikkaaminen lieriön kokoisiksi
-5. Kierteiden huippujen ja laaksojen pyöristys
+5. Kierteiden harjojen ja pohjien pyöristys
 6. Kierteiden sorvaaminen toisiinsa
 7. Sisempien kierteiden liittäminen lieriöön
 8. Jalan mallintaminen ja liittäminen lieriöön

@@ -95,13 +95,13 @@ Siirsin ulompien kappaleiden kierteitä loitommaksi sisäkappaleista, jolla sain
 		</details>
 		<details>
 			<summary>Viikko 8 (26. - 28.5.)</summary>
-			<br>
+			<br><img align="right" src="files/V3.png">
 			Testitulostukset eivät ruuvautuneet perille asti, vaan jäivät väliltä kiinni; syyksi epäilin tulostuksessa kierteisiin muodostunutta ylipursotusta ja häntimistä. Aloitin V3 osien mallintamisen, joihin tein omat kierteet coil-työkalua käyttäen. Mallinsin ensimmäisen kierteen ydinlierön pinnasta alkavalla halkaisijalla, kolmiopohjalla, 4 mm:n nousulla (engl. *pitch*) ja 4 mm:n koolla (engl. *lead*); vastakkainen kierre 0,4 mm:ä isommalla halkaisijalla ja 4 mm:ä korkeammalla tai matalammalla. Lisäsin kolmannen kierteen alkamaan edellisestä niin, että tasapinnat olivat vastakkain. Lisäsin kierteitä, kunnes uloimman kierteen uloimman reunan halkaisija saavutti 8 cm:ä, jonka sitten liitin kuoren sisäpinnalle. Tein kierteiden kärkiin ja pohjiin 0,8 mm:n pyöristykset.
 		</details>
 		<details>
 			<summary>Viikko 9 (2. - 4.6.)</summary>
 			<br>
-			Mallinsin V3 testikappaleet. Osien mallinnuksen vaiheet pääpiirteittäin:
+			Mallinsin ja tulostin V3 testikappaleet. Osien mallinnuksen vaiheet pääpiirteittäin:
 
 1. Lieriön mallintaminen
 2. Kierteiden mallintaminen coil-työkalulla lieriön pinnalle
@@ -115,12 +115,12 @@ Siirsin ulompien kappaleiden kierteitä loitommaksi sisäkappaleista, jolla sain
 		<details>
 			<summary>Viikko 10 (9. - 11.6.)</summary>
 			<br>
-			Viipaloin kappaleet OrcaSlicer-ohjelmalla, jonka jälkeen tulostin ne. Mallinsin V4 kappaleista isommilla kierteillä siltä varalta, että viipalointi eri ohjelmalla ei auta. Testitulostus V4.
+			V3 kappaleisiin muodostui yhä ylipursotusta, joten testatiin niiden viipalointia OrcaSlicer-ohjelmalla. Mallinsin V4 kappaleet isommilla kierteillä V3 verrattuna siltä varalta, että viipalointi eri ohjelmalla ei auta. Tein testitulostukset V4 kappaleille.
 		</details>
 		<details>
 			<summary>Viikko 11 (16. - 18.6.)</summary>
 			<br>
-			Työstin testitulostuksia poistamalla ylipursotusta kierteiden pinnoilta viilalla ja tulostin [valmiin mallin](https://www.printables.com/model/1517265-annoying-nested-screw-gift-box/) toleranssitestin eri viipalointiohjelmilla (Prusa Slicer, OrcaSlicer, UltiMaker Cura). Toleranssitestin tulostus onnistui hyvin, vaikka ylipursotusta ilmeni silti. Mallinsin V5 osia. Toleranssipalan yksittäistulostus, huomattavasti parempi jälki.
+			Työstin testitulostuksia poistamalla ylipursotusta kierteiden pinnoilta viilalla ja tulostin [valmiin mallin](https://www.printables.com/model/1517265-annoying-nested-screw-gift-box/) toleranssitestin eri viipalointiohjelmilla (Prusa Slicer, OrcaSlicer, UltiMaker Cura). Toleranssitestin tulostus onnistui hyvin, vaikka ylipursotusta ilmeni silti. Mallinsin V5 osia, joihin tuli neljät kierteet. Tulostin vain yhden toleranssitestin osista, huomattavasti parempi jälki.
 		</details>
 		<details>
 			<summary>Viikko 12 (23. - 25.6.)</summary>

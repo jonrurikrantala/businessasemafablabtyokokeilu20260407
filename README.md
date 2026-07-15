@@ -103,7 +103,7 @@ Siirsin ulompien kappaleiden kierteitä loitommaksi sisäkappaleista, jolla sain
 		<details>
 			<summary>Viikko 9 (2. - 4.6.)</summary>
 			<br>
-			Mallinsin V3 testikappaleet. Mallinnuksen vaiheet pääpiirteittäin:
+			Mallinsin V3 testikappaleet. Osien mallinnuksen vaiheet pääpiirteittäin:
 
 1. Lieriön mallintaminen
 2. Kierteiden mallintaminen coil-työkalulla lieriön pinnalle

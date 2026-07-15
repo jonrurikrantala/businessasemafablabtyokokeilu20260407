@@ -82,13 +82,13 @@ Siirsin ulompien kappaleiden kierteitä loitommaksi sisäkappaleista, jolla sain
 		</details>
 		<details>
 			<summary>Viikko 5 (5. - 7.5.)</summary>
-			<br>
+			<br><img align="right" src="files/V2.png">
 			Testitulostukset avaimesta, kannesta, ja valekannen testikappaleesta; otin selville avaimen säilytyskolon, valekannen ytimen väkästen kolojen, sekä valekannen ja kannen väliset toleranssit. Testitulostuksien perusteella mallinsin V2 kappaleet: loin kappaleiden välille sidonnaisuuksia, jolloin niiden massamuokkaaminen on helpompaa, ja muutin kaikki kierteet samankokoisiksi esineen avaamisen (ja kokoamisen) rasittavuuden lisäämiseksi. Tein kannen, valekannen, ytimen, ja kahden ydintä lähinnä olevan kappaleen testitulostukset.
 		</details>
 		<details>
 			<summary>Viikko 6 (12. - 13.5.)</summary>
 			<br>
-			Mallinsin testikappaleen avaimen säilytyskololle; 0,3 mm (seinät) x 0,4 mm (pohja), 0,4 mm x 0,2 mm, 0,4 mm x 0,4 mm, ja 0,4 mm x 0,6 mm toleransseilla. Testitulostuksen perusteella asetin avaimen säilytyskolon toleransseiksi seinille 0,3 mm ja lattialle 0,6 mm. Tulostin ensimmäiset prototyypit. Havainnekuva esineen osista.
+			Mallinsin testikappaleen avaimen säilytyskololle; 0,3 mm (seinät) x 0,4 mm (pohja), 0,4 mm x 0,2 mm, 0,4 mm x 0,4 mm, ja 0,4 mm x 0,6 mm toleransseilla. Testitulostuksen perusteella asetin avaimen säilytyskolon toleransseiksi seinille 0,3 mm ja lattialle 0,6 mm. Tulostin ensimmäiset V2 prototyypit.
 		</details>
 		<details>
 			<summary>Viikko 7 (19. - 21.5.)</summary>

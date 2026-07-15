@@ -126,10 +126,12 @@ Siirsin ulompien kappaleiden kierteitä loitommaksi sisäkappaleista, jolla sain
 			<summary>Viikko 12 (23. - 25.6.)</summary>
 			<br>
 			Mallinsin ja tulostin V5 testiosat, sekä mallinsin varalta V6 osat ja testiosat isommilla kierteillä. V5 testitulosteissa huomasin, että osat kiertyvät paremmin tietyille kierteille.
+   			<br>
+			![V5](files/V5.png)![V6](files/V6.png)
 		</details>
 		<details>
 			<summary>Viikko 13 (30.6. - 2.7.)</summary>
-			<br>
+			<br><img align="right" src="files/V5.2.png">
 			Tein testitulostukset neljästä [valmiin mallin](https://www.printables.com/model/1517265-annoying-nested-screw-gift-box) kappaleesta Creality Ender-3 V2 Neo -tulostimella, viipalointi Prusa Slicer -ohjelmistolla. Viilasin ylipursotusta pois V5 testikappaleiden ulkokierteiltä.
    Valmiin mallin kappaleisiin muodostui myös ylipursotusta ja häntimistä sen verran, että kappaleiden poiskiertämiseen piti käyttää voimaa. V5 testikappaleiden kierteiden ulkopintojen ylipursotuksen poistaminen viilalla auttoi (ytimestä laskien) viidenteen kappaleeseen asti, epäilen (saavutettamattomilla) sisäkierteillä olevan myös ylipursotusta.
    Koska kierteistykset toimivat jälkityöstämisen jälkeen tiettyyn halkaisijaan asti, rajataan lopullisen tuotteen loppuhalkaisijaa pienemmäksi. Mallinsin V5.2 osat ja aloitin posterin tekemisen.
